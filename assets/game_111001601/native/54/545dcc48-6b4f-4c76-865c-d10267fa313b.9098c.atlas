@@ -1,0 +1,83 @@
+
+free_bg.png
+size: 805,632
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 45
+  size: 270, 585
+  orig: 270, 585
+  offset: 0, 0
+  index: -1
+fastline_change
+  rotate: true
+  xy: 2, 15
+  size: 28, 281
+  orig: 28, 281
+  offset: 0, 0
+  index: -1
+hood_cloak/cape_bonus_000
+  rotate: true
+  xy: 274, 389
+  size: 241, 142
+  orig: 241, 152
+  offset: 0, 0
+  index: -1
+hood_cloak/cape_bonus_001
+  rotate: true
+  xy: 274, 146
+  size: 241, 142
+  orig: 241, 152
+  offset: 0, 0
+  index: -1
+hood_cloak/cape_bonus_002
+  rotate: false
+  xy: 285, 2
+  size: 241, 142
+  orig: 241, 152
+  offset: 0, 0
+  index: -1
+hood_cloak/cape_bonus_003
+  rotate: false
+  xy: 418, 488
+  size: 241, 142
+  orig: 241, 152
+  offset: 0, 0
+  index: -1
+hood_cloak/cape_bonus_004
+  rotate: true
+  xy: 661, 389
+  size: 241, 142
+  orig: 241, 152
+  offset: 0, 0
+  index: -1
+hood_cloak/cape_bonus_005
+  rotate: false
+  xy: 418, 344
+  size: 241, 142
+  orig: 241, 152
+  offset: 0, 0
+  index: -1
+hood_cloak/cape_bonus_006
+  rotate: true
+  xy: 661, 146
+  size: 241, 142
+  orig: 241, 152
+  offset: 0, 0
+  index: -1
+hood_cloak/cape_bonus_007
+  rotate: false
+  xy: 418, 200
+  size: 241, 142
+  orig: 241, 152
+  offset: 0, 0
+  index: -1
+hood_cloak/cape_bonus_008
+  rotate: false
+  xy: 528, 2
+  size: 241, 142
+  orig: 241, 152
+  offset: 0, 0
+  index: -1

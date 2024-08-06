@@ -1,0 +1,69 @@
+
+finger_wolf_bglight.png
+size: 1845,461
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+finger_wolf_elec/Lightning2_01
+  rotate: true
+  xy: 1564, 4
+  size: 129, 279
+  orig: 154, 296
+  offset: 25, 0
+  index: -1
+finger_wolf_elec/Lightning2_02
+  rotate: true
+  xy: 2, 209
+  size: 250, 550
+  orig: 256, 550
+  offset: 6, 0
+  index: -1
+finger_wolf_elec/Lightning2_03
+  rotate: true
+  xy: 554, 226
+  size: 233, 497
+  orig: 244, 518
+  offset: 11, 0
+  index: -1
+finger_wolf_elec/Lightning2_04
+  rotate: true
+  xy: 1082, 67
+  size: 193, 480
+  orig: 220, 510
+  offset: 27, 0
+  index: -1
+finger_wolf_elec/Lightning_01
+  rotate: false
+  xy: 1789, 135
+  size: 54, 324
+  orig: 124, 325
+  offset: 70, 0
+  index: -1
+finger_wolf_elec/Lightning_02
+  rotate: true
+  xy: 541, 4
+  size: 203, 539
+  orig: 208, 539
+  offset: 5, 0
+  index: -1
+finger_wolf_elec/Lightning_03
+  rotate: true
+  xy: 1053, 262
+  size: 197, 527
+  orig: 200, 527
+  offset: 3, 0
+  index: -1
+finger_wolf_elec/Lightning_04
+  rotate: true
+  xy: 2, 2
+  size: 205, 537
+  orig: 206, 537
+  offset: 1, 0
+  index: -1
+finger_wolf_elec/Lightning_05
+  rotate: false
+  xy: 1582, 162
+  size: 205, 297
+  orig: 206, 417
+  offset: 1, 0
+  index: -1

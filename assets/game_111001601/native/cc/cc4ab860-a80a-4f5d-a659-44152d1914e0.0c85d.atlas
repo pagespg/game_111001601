@@ -1,0 +1,13 @@
+
+bg_button.png
+size: 106,106
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rules_img.53574
+  rotate: false
+  xy: 2, 2
+  size: 102, 102
+  orig: 106, 106
+  offset: 2, 2
+  index: -1

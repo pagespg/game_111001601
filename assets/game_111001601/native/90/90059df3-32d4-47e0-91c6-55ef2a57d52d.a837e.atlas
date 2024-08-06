@@ -1,0 +1,13 @@
+
+bigwin_star.png
+size: 16,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sym_win_star
+  rotate: false
+  xy: 2, 2
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1

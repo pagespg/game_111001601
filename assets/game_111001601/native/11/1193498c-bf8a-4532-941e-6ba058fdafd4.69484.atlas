@@ -1,0 +1,20 @@
+
+pushbar_icon.png
+size: 470,217
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head_hood
+  rotate: true
+  xy: 243, 2
+  size: 213, 225
+  orig: 213, 225
+  offset: 0, 0
+  index: -1
+head_wolf
+  rotate: true
+  xy: 2, 14
+  size: 201, 239
+  orig: 202, 240
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,146 @@
+
+duikangfire.jpg
+size: 1934,548
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fireLoop_01
+  rotate: false
+  xy: 2, 184
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+fireLoop_02
+  rotate: false
+  xy: 324, 366
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+fireLoop_03
+  rotate: false
+  xy: 2, 2
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+fireLoop_04
+  rotate: false
+  xy: 324, 184
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+fireLoop_05
+  rotate: false
+  xy: 646, 366
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+fireLoop_06
+  rotate: false
+  xy: 324, 2
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+fireLoop_07
+  rotate: false
+  xy: 646, 184
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+fireLoop_08
+  rotate: false
+  xy: 968, 366
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+fireLoop_09
+  rotate: false
+  xy: 646, 2
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+fire_purple_000
+  rotate: false
+  xy: 968, 184
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+fire_purple_001
+  rotate: false
+  xy: 968, 184
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+fire_purple_002
+  rotate: false
+  xy: 1290, 366
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+fire_purple_003
+  rotate: false
+  xy: 968, 2
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+fire_purple_004
+  rotate: false
+  xy: 1290, 184
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+fire_purple_005
+  rotate: false
+  xy: 1612, 366
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+fire_purple_006
+  rotate: false
+  xy: 1612, 366
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+fire_purple_007
+  rotate: false
+  xy: 1290, 2
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+fire_purple_008
+  rotate: false
+  xy: 1612, 184
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+fire_purple_009
+  rotate: false
+  xy: 1612, 2
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+fire_purple_010
+  rotate: false
+  xy: 2, 366
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1

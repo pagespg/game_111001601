@@ -1,0 +1,327 @@
+
+bigwin_boom.png
+size: 1358,1245
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_BTN/orangeRing_01
+  rotate: false
+  xy: 514, 1087
+  size: 158, 156
+  orig: 192, 202
+  offset: 17, 24
+  index: -1
+FX_BTN/orangeRing_02
+  rotate: true
+  xy: 2, 255
+  size: 192, 202
+  orig: 192, 202
+  offset: 0, 0
+  index: -1
+FX_BTN/orangeRing_03
+  rotate: true
+  xy: 206, 255
+  size: 192, 202
+  orig: 192, 202
+  offset: 0, 0
+  index: -1
+FX_BTN/orangeRing_04
+  rotate: true
+  xy: 410, 255
+  size: 192, 202
+  orig: 192, 202
+  offset: 0, 0
+  index: -1
+FX_BTN/orangeRing_05
+  rotate: true
+  xy: 614, 255
+  size: 192, 202
+  orig: 192, 202
+  offset: 0, 0
+  index: -1
+FX_BTN/orangeRing_06
+  rotate: true
+  xy: 818, 255
+  size: 192, 202
+  orig: 192, 202
+  offset: 0, 0
+  index: -1
+FX_BTN/sparks_01
+  rotate: false
+  xy: 244, 1147
+  size: 102, 96
+  orig: 192, 202
+  offset: 48, 56
+  index: -1
+FX_BTN/sparks_02
+  rotate: false
+  xy: 348, 1088
+  size: 164, 155
+  orig: 192, 202
+  offset: 15, 26
+  index: -1
+FX_BTN/sparks_03
+  rotate: false
+  xy: 1094, 426
+  size: 192, 182
+  orig: 192, 202
+  offset: 0, 9
+  index: -1
+FX_BTN/sparks_04
+  rotate: true
+  xy: 1022, 232
+  size: 192, 202
+  orig: 192, 202
+  offset: 0, 0
+  index: -1
+FX_BTN/sparks_05
+  rotate: true
+  xy: 2, 61
+  size: 192, 202
+  orig: 192, 202
+  offset: 0, 0
+  index: -1
+FX_BTN/sparks_06
+  rotate: true
+  xy: 206, 61
+  size: 192, 202
+  orig: 192, 202
+  offset: 0, 0
+  index: -1
+bw_light/zoom_explode
+  rotate: false
+  xy: 2, 1150
+  size: 240, 93
+  orig: 240, 93
+  offset: 0, 0
+  index: -1
+bw_smw_bg/rainbow_ripple_01
+  rotate: true
+  xy: 1013, 1087
+  size: 156, 337
+  orig: 156, 337
+  offset: 0, 0
+  index: -1
+bw_smw_bg/rainbow_ripple_02
+  rotate: true
+  xy: 2, 989
+  size: 156, 337
+  orig: 156, 337
+  offset: 0, 0
+  index: -1
+bw_smw_bg/rainbow_ripple_03
+  rotate: true
+  xy: 341, 929
+  size: 156, 337
+  orig: 156, 337
+  offset: 0, 0
+  index: -1
+bw_smw_bg/rainbow_ripple_04
+  rotate: true
+  xy: 680, 929
+  size: 156, 337
+  orig: 156, 337
+  offset: 0, 0
+  index: -1
+bw_smw_bg/rainbow_ripple_05
+  rotate: true
+  xy: 1019, 929
+  size: 156, 337
+  orig: 156, 337
+  offset: 0, 0
+  index: -1
+bw_smw_bg/rainbow_ripple_06
+  rotate: true
+  xy: 2, 831
+  size: 156, 337
+  orig: 156, 337
+  offset: 0, 0
+  index: -1
+bw_smw_bg/rainbow_ripple_07
+  rotate: true
+  xy: 341, 771
+  size: 156, 337
+  orig: 156, 337
+  offset: 0, 0
+  index: -1
+bw_smw_bg/rainbow_ripple_08
+  rotate: true
+  xy: 680, 771
+  size: 156, 337
+  orig: 156, 337
+  offset: 0, 0
+  index: -1
+bw_smw_bg/rainbow_ripple_09
+  rotate: true
+  xy: 1019, 771
+  size: 156, 337
+  orig: 156, 337
+  offset: 0, 0
+  index: -1
+bw_smw_bg/rainbow_ripple_10
+  rotate: true
+  xy: 2, 673
+  size: 156, 337
+  orig: 156, 337
+  offset: 0, 0
+  index: -1
+bw_smw_bg/rainbow_ripple_11
+  rotate: true
+  xy: 674, 1087
+  size: 156, 337
+  orig: 156, 337
+  offset: 0, 0
+  index: -1
+hood_aim_border_light/bonusLipstickFireRing_00
+  rotate: false
+  xy: 341, 610
+  size: 180, 159
+  orig: 180, 159
+  offset: 0, 0
+  index: -1
+hood_aim_border_light/bonusLipstickFireRing_01
+  rotate: false
+  xy: 341, 610
+  size: 180, 159
+  orig: 180, 159
+  offset: 0, 0
+  index: -1
+hood_aim_border_light/bonusLipstickFireRing_02
+  rotate: false
+  xy: 523, 610
+  size: 180, 159
+  orig: 180, 159
+  offset: 0, 0
+  index: -1
+hood_aim_border_light/bonusLipstickFireRing_03
+  rotate: false
+  xy: 705, 610
+  size: 180, 159
+  orig: 180, 159
+  offset: 0, 0
+  index: -1
+hood_aim_border_light/bonusLipstickFireRing_04
+  rotate: false
+  xy: 887, 610
+  size: 180, 159
+  orig: 180, 159
+  offset: 0, 0
+  index: -1
+hood_aim_border_light/bonusLipstickFireRing_05
+  rotate: false
+  xy: 1069, 610
+  size: 180, 159
+  orig: 180, 159
+  offset: 0, 0
+  index: -1
+hood_aim_border_light/bonusLipstickFireRing_06
+  rotate: false
+  xy: 2, 512
+  size: 180, 159
+  orig: 180, 159
+  offset: 0, 0
+  index: -1
+hood_aim_border_light/bonusLipstickFireRing_07
+  rotate: false
+  xy: 184, 449
+  size: 180, 159
+  orig: 180, 159
+  offset: 0, 0
+  index: -1
+hood_aim_border_light/bonusLipstickFireRing_08
+  rotate: false
+  xy: 366, 449
+  size: 180, 159
+  orig: 180, 159
+  offset: 0, 0
+  index: -1
+hood_aim_border_light/bonusLipstickFireRing_09
+  rotate: false
+  xy: 548, 449
+  size: 180, 159
+  orig: 180, 159
+  offset: 0, 0
+  index: -1
+hood_aim_border_light/bonusLipstickFireRing_10
+  rotate: false
+  xy: 730, 449
+  size: 180, 159
+  orig: 180, 159
+  offset: 0, 0
+  index: -1
+hood_aim_border_light/bonusLipstickFireRing_11
+  rotate: false
+  xy: 912, 449
+  size: 180, 159
+  orig: 180, 159
+  offset: 0, 0
+  index: -1
+speedline/zoomLine_00
+  rotate: false
+  xy: 410, 25
+  size: 405, 228
+  orig: 405, 228
+  offset: 0, 0
+  index: -1
+speedline/zoomLine_01
+  rotate: false
+  xy: 817, 2
+  size: 405, 228
+  orig: 405, 228
+  offset: 0, 0
+  index: -1
+
+bigwin_boom2.png
+size: 1321,808
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_light/bg_glow
+  rotate: false
+  xy: 861, 443
+  size: 384, 363
+  orig: 384, 363
+  offset: 0, 0
+  index: -1
+bw_light/bg_glow_01
+  rotate: false
+  xy: 2, 387
+  size: 419, 419
+  orig: 419, 419
+  offset: 0, 0
+  index: -1
+bw_light/boom_01
+  rotate: false
+  xy: 2, 2
+  size: 436, 383
+  orig: 436, 383
+  offset: 0, 0
+  index: -1
+bw_light/sun_rays_md
+  rotate: false
+  xy: 440, 133
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+bw_light/ui_smega_frame
+  rotate: false
+  xy: 423, 423
+  size: 436, 383
+  orig: 436, 383
+  offset: 0, 0
+  index: -1
+speedline/zoomLine_02
+  rotate: true
+  xy: 861, 36
+  size: 405, 228
+  orig: 405, 228
+  offset: 0, 0
+  index: -1
+speedline/zoomLine_03
+  rotate: true
+  xy: 1091, 36
+  size: 405, 228
+  orig: 405, 228
+  offset: 0, 0
+  index: -1

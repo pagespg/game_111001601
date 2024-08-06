@@ -1,0 +1,13 @@
+
+cq_tuzi.png
+size: 106,134
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+finger_hood_win
+  rotate: false
+  xy: 2, 2
+  size: 102, 130
+  orig: 102, 130
+  offset: 0, 0
+  index: -1

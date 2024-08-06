@@ -1,0 +1,396 @@
+
+wolf_aim.png
+size: 1279,1167
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_BTN/orangeRing_01
+  rotate: false
+  xy: 2, 85
+  size: 276, 272
+  orig: 336, 352
+  offset: 30, 42
+  index: -1
+FX_BTN/sparks_01
+  rotate: false
+  xy: 681, 847
+  size: 176, 165
+  orig: 336, 352
+  offset: 86, 99
+  index: -1
+FX_BTN/sparks_02
+  rotate: false
+  xy: 851, 312
+  size: 286, 268
+  orig: 336, 352
+  offset: 27, 47
+  index: -1
+_ga
+  rotate: false
+  xy: 151, 1086
+  size: 95, 79
+  orig: 95, 79
+  offset: 0, 0
+  index: -1
+fs_aim_attack/attack_01
+  rotate: false
+  xy: 694, 1015
+  size: 159, 150
+  orig: 159, 162
+  offset: 0, 0
+  index: -1
+fs_aim_attack/attack_02
+  rotate: true
+  xy: 1027, 1006
+  size: 159, 162
+  orig: 159, 162
+  offset: 0, 0
+  index: -1
+fs_aim_attack/attack_04
+  rotate: true
+  xy: 248, 1085
+  size: 80, 82
+  orig: 80, 82
+  offset: 0, 0
+  index: -1
+fs_aim_attack/attack_05
+  rotate: true
+  xy: 2, 925
+  size: 159, 162
+  orig: 159, 162
+  offset: 0, 0
+  index: -1
+fs_aim_attack/attack_07
+  rotate: true
+  xy: 166, 924
+  size: 159, 162
+  orig: 159, 162
+  offset: 0, 0
+  index: -1
+fs_aim_attack/attack_08
+  rotate: true
+  xy: 330, 905
+  size: 159, 162
+  orig: 159, 162
+  offset: 0, 0
+  index: -1
+hood_aim_pattern/wolf_scratch
+  rotate: false
+  xy: 1022, 582
+  size: 255, 254
+  orig: 255, 254
+  offset: 0, 0
+  index: -1
+hood_aim_pattern/wolf_scratch_greyscale
+  rotate: false
+  xy: 2, 419
+  size: 255, 254
+  orig: 255, 254
+  offset: 0, 0
+  index: -1
+hood_star
+  rotate: false
+  xy: 555, 1028
+  size: 137, 137
+  orig: 159, 156
+  offset: 11, 8
+  index: -1
+wolf_aim/X_00
+  rotate: false
+  xy: 39, 1122
+  size: 43, 43
+  orig: 279, 279
+  offset: 118, 119
+  index: -1
+wolf_aim/X_01
+  rotate: true
+  xy: 84, 1104
+  size: 61, 65
+  orig: 279, 279
+  offset: 110, 109
+  index: -1
+wolf_aim/X_02
+  rotate: true
+  xy: 332, 1068
+  size: 97, 105
+  orig: 279, 279
+  offset: 93, 90
+  index: -1
+wolf_aim/X_03
+  rotate: true
+  xy: 332, 1068
+  size: 97, 105
+  orig: 279, 279
+  offset: 93, 90
+  index: -1
+wolf_aim/X_04
+  rotate: true
+  xy: 855, 1014
+  size: 151, 170
+  orig: 279, 279
+  offset: 62, 61
+  index: -1
+wolf_aim/X_05
+  rotate: true
+  xy: 494, 863
+  size: 163, 185
+  orig: 279, 279
+  offset: 57, 53
+  index: -1
+wolf_aim/X_06
+  rotate: true
+  xy: 859, 838
+  size: 166, 187
+  orig: 279, 279
+  offset: 56, 51
+  index: -1
+wolf_aim/X_07
+  rotate: true
+  xy: 1048, 838
+  size: 166, 189
+  orig: 279, 279
+  offset: 56, 48
+  index: -1
+wolf_aim/X_08
+  rotate: true
+  xy: 2, 755
+  size: 167, 189
+  orig: 279, 279
+  offset: 56, 48
+  index: -1
+wolf_aim/X_09
+  rotate: true
+  xy: 2, 755
+  size: 167, 189
+  orig: 279, 279
+  offset: 56, 48
+  index: -1
+wolf_aim_animation/wolfSlash_00
+  rotate: true
+  xy: 439, 1066
+  size: 99, 114
+  orig: 392, 421
+  offset: 66, 244
+  index: -1
+wolf_aim_animation/wolfSlash_01
+  rotate: true
+  xy: 439, 1066
+  size: 99, 114
+  orig: 392, 421
+  offset: 66, 244
+  index: -1
+wolf_aim_animation/wolfSlash_02
+  rotate: true
+  xy: 193, 675
+  size: 228, 266
+  orig: 392, 421
+  offset: 70, 92
+  index: -1
+wolf_aim_animation/wolfSlash_03
+  rotate: true
+  xy: 193, 675
+  size: 228, 266
+  orig: 392, 421
+  offset: 70, 92
+  index: -1
+wolf_aim_animation/wolfSlash_05
+  rotate: true
+  xy: 193, 675
+  size: 228, 266
+  orig: 392, 421
+  offset: 70, 92
+  index: -1
+wolf_aim_animation/wolfSlash_04
+  rotate: true
+  xy: 259, 359
+  size: 256, 294
+  orig: 392, 421
+  offset: 72, 56
+  index: -1
+wolf_aim_animation/wolfSlash_06
+  rotate: true
+  xy: 259, 359
+  size: 256, 294
+  orig: 392, 421
+  offset: 72, 56
+  index: -1
+wolf_aim_animation/wolfSlash_07
+  rotate: true
+  xy: 461, 617
+  size: 228, 266
+  orig: 392, 421
+  offset: 71, 92
+  index: -1
+wolf_aim_animation/wolfSlash_08
+  rotate: true
+  xy: 555, 328
+  size: 256, 294
+  orig: 392, 421
+  offset: 73, 56
+  index: -1
+wolf_aim_animation/wolfSlash_09
+  rotate: true
+  xy: 729, 586
+  size: 250, 291
+  orig: 392, 421
+  offset: 73, 64
+  index: -1
+wolf_aim_animation/wolfSlash_10
+  rotate: true
+  xy: 729, 586
+  size: 250, 291
+  orig: 392, 421
+  offset: 73, 64
+  index: -1
+wolf_aim_animation/wolfSlash_11
+  rotate: true
+  xy: 280, 52
+  size: 274, 303
+  orig: 392, 421
+  offset: 56, 57
+  index: -1
+wolf_aim_animation/wolfSlash_14
+  rotate: true
+  xy: 280, 52
+  size: 274, 303
+  orig: 392, 421
+  offset: 56, 57
+  index: -1
+wolf_aim_animation/wolfSlash_17
+  rotate: true
+  xy: 280, 52
+  size: 274, 303
+  orig: 392, 421
+  offset: 56, 57
+  index: -1
+wolf_aim_animation/wolfSlash_12
+  rotate: true
+  xy: 585, 35
+  size: 275, 302
+  orig: 392, 421
+  offset: 55, 57
+  index: -1
+wolf_aim_animation/wolfSlash_13
+  rotate: true
+  xy: 585, 35
+  size: 275, 302
+  orig: 392, 421
+  offset: 55, 57
+  index: -1
+wolf_aim_animation/wolfSlash_15
+  rotate: true
+  xy: 585, 35
+  size: 275, 302
+  orig: 392, 421
+  offset: 55, 57
+  index: -1
+wolf_aim_animation/wolfSlash_16
+  rotate: true
+  xy: 585, 35
+  size: 275, 302
+  orig: 392, 421
+  offset: 55, 57
+  index: -1
+wolf_aim_animation/wolfSlash_18
+  rotate: true
+  xy: 585, 35
+  size: 275, 302
+  orig: 392, 421
+  offset: 55, 57
+  index: -1
+wolf_aim_animation/wolfSlash_19
+  rotate: true
+  xy: 889, 2
+  size: 308, 355
+  orig: 392, 421
+  offset: 37, 37
+  index: -1
+wolf_aim_animation/wolfSlash_21
+  rotate: true
+  xy: 2, 1131
+  size: 34, 35
+  orig: 392, 421
+  offset: 175, 193
+  index: -1
+
+wolf_aim2.png
+size: 1064,1016
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_BTN/orangeRing_02
+  rotate: true
+  xy: 692, 678
+  size: 336, 352
+  orig: 336, 352
+  offset: 0, 0
+  index: -1
+FX_BTN/orangeRing_03
+  rotate: true
+  xy: 2, 342
+  size: 336, 352
+  orig: 336, 352
+  offset: 0, 0
+  index: -1
+FX_BTN/orangeRing_04
+  rotate: true
+  xy: 356, 340
+  size: 336, 352
+  orig: 336, 352
+  offset: 0, 0
+  index: -1
+FX_BTN/orangeRing_05
+  rotate: true
+  xy: 710, 340
+  size: 336, 352
+  orig: 336, 352
+  offset: 0, 0
+  index: -1
+FX_BTN/orangeRing_06
+  rotate: true
+  xy: 2, 4
+  size: 336, 352
+  orig: 336, 352
+  offset: 0, 0
+  index: -1
+FX_BTN/sparks_03
+  rotate: false
+  xy: 2, 699
+  size: 334, 315
+  orig: 336, 352
+  offset: 0, 17
+  index: -1
+FX_BTN/sparks_04
+  rotate: true
+  xy: 356, 2
+  size: 336, 348
+  orig: 336, 352
+  offset: 0, 2
+  index: -1
+FX_BTN/sparks_05
+  rotate: true
+  xy: 706, 2
+  size: 336, 352
+  orig: 336, 352
+  offset: 0, 0
+  index: -1
+FX_BTN/sparks_06
+  rotate: true
+  xy: 338, 680
+  size: 334, 352
+  orig: 336, 352
+  offset: 0, 0
+  index: -1
+
+wolf_aim3.png
+size: 384,425
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wolf_aim_animation/wolfSlash_20
+  rotate: false
+  xy: 2, 2
+  size: 380, 421
+  orig: 392, 421
+  offset: 0, 0
+  index: -1

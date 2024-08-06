@@ -1,0 +1,748 @@
+
+symbols.png
+size: 2017,968
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cape2
+  rotate: false
+  xy: 683, 2
+  size: 71, 24
+  orig: 71, 24
+  offset: 0, 0
+  index: -1
+Star2
+  rotate: false
+  xy: 1658, 17
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+Star_hit
+  rotate: false
+  xy: 1610, 19
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+sun-rays-md
+  rotate: false
+  xy: 981, 221
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+symbolBasket_Basket
+  rotate: false
+  xy: 358, 14
+  size: 187, 186
+  orig: 187, 186
+  offset: 0, 0
+  index: -1
+symbolBasket_Bread
+  rotate: true
+  xy: 1844, 406
+  size: 93, 71
+  orig: 93, 71
+  offset: 0, 0
+  index: -1
+symbolBasket_Cloth
+  rotate: false
+  xy: 1905, 524
+  size: 102, 99
+  orig: 102, 99
+  offset: 0, 0
+  index: -1
+symbolBasket_Cloth_Back
+  rotate: true
+  xy: 1480, 248
+  size: 109, 67
+  orig: 109, 67
+  offset: 0, 0
+  index: -1
+symbolBasket_Flower
+  rotate: true
+  xy: 1928, 293
+  size: 58, 77
+  orig: 58, 77
+  offset: 0, 0
+  index: -1
+symbolBasket_Frame2
+  rotate: false
+  xy: 1379, 542
+  size: 181, 203
+  orig: 181, 203
+  offset: 0, 0
+  index: -1
+symbolBasket_Glow
+  rotate: false
+  xy: 1742, 89
+  size: 75, 65
+  orig: 75, 65
+  offset: 0, 0
+  index: -1
+symbolBasket_Handle
+  rotate: true
+  xy: 1738, 156
+  size: 97, 79
+  orig: 97, 79
+  offset: 0, 0
+  index: -1
+symbolBasket_Shadow2
+  rotate: false
+  xy: 547, 31
+  size: 173, 151
+  orig: 173, 151
+  offset: 0, 0
+  index: -1
+symbolClaw_Finger_2
+  rotate: false
+  xy: 1647, 252
+  size: 79, 103
+  orig: 79, 103
+  offset: 0, 0
+  index: -1
+symbolClaw_Finger_2a
+  rotate: true
+  xy: 1243, 65
+  size: 58, 134
+  orig: 58, 134
+  offset: 0, 0
+  index: -1
+symbolClaw_Finger_3
+  rotate: true
+  xy: 1263, 8
+  size: 55, 103
+  orig: 55, 103
+  offset: 0, 0
+  index: -1
+symbolClaw_Finger_4
+  rotate: true
+  xy: 1928, 353
+  size: 79, 68
+  orig: 79, 68
+  offset: 0, 0
+  index: -1
+symbolClaw_Frame2
+  rotate: false
+  xy: 2, 220
+  size: 214, 253
+  orig: 214, 253
+  offset: 0, 0
+  index: -1
+symbolClaw_Glow
+  rotate: true
+  xy: 1624, 68
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+symbolClaw_Glow_2
+  rotate: true
+  xy: 547, 2
+  size: 27, 54
+  orig: 27, 54
+  offset: 0, 0
+  index: -1
+symbolClaw_Palm
+  rotate: false
+  xy: 723, 43
+  size: 169, 154
+  orig: 169, 154
+  offset: 0, 0
+  index: -1
+symbolClaw_Palm2
+  rotate: true
+  xy: 894, 28
+  size: 169, 125
+  orig: 169, 125
+  offset: 0, 0
+  index: -1
+symbolClaw_Shine
+  rotate: false
+  xy: 1704, 14
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+symbolClaw_Spark
+  rotate: true
+  xy: 1927, 248
+  size: 43, 78
+  orig: 43, 78
+  offset: 0, 0
+  index: -1
+symbolClaw_Thumb
+  rotate: false
+  xy: 1819, 86
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+symbolClaw_Wrist
+  rotate: false
+  xy: 1923, 69
+  size: 76, 67
+  orig: 76, 67
+  offset: 0, 0
+  index: -1
+symbolFlowers_Card
+  rotate: false
+  xy: 252, 530
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+symbolFlowers_EFX_Polygon
+  rotate: true
+  xy: 357, 202
+  size: 172, 190
+  orig: 172, 190
+  offset: 0, 0
+  index: -1
+symbolFlowers_Flower_01
+  rotate: false
+  xy: 1549, 252
+  size: 96, 103
+  orig: 96, 103
+  offset: 0, 0
+  index: -1
+symbolFlowers_Flower_02
+  rotate: true
+  xy: 1379, 49
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+symbolFlowers_Flower_03
+  rotate: true
+  xy: 1550, 79
+  size: 67, 72
+  orig: 67, 72
+  offset: 0, 0
+  index: -1
+symbolFlowers_Flower_04
+  rotate: false
+  xy: 1917, 434
+  size: 76, 88
+  orig: 76, 88
+  offset: 0, 0
+  index: -1
+symbolFlowers_Flower_05
+  rotate: true
+  xy: 1852, 320
+  size: 84, 74
+  orig: 84, 74
+  offset: 0, 0
+  index: -1
+symbolFlowers_Frame2
+  rotate: true
+  xy: 508, 756
+  size: 210, 251
+  orig: 210, 251
+  offset: 0, 0
+  index: -1
+symbolFlowers_Icon
+  rotate: true
+  xy: 1218, 233
+  size: 139, 116
+  orig: 139, 116
+  offset: 0, 0
+  index: -1
+symbolFlowers_Leaf_01
+  rotate: true
+  xy: 1852, 237
+  size: 81, 73
+  orig: 81, 73
+  offset: 0, 0
+  index: -1
+symbolFlowers_Leaf_02
+  rotate: true
+  xy: 1679, 62
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+symbolFlowers_Petals
+  rotate: true
+  xy: 837, 5
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+symbolFlowers_Shadow
+  rotate: false
+  xy: 956, 546
+  size: 212, 199
+  orig: 212, 199
+  offset: 0, 0
+  index: -1
+symbolHood_Bubbles
+  rotate: false
+  xy: 1641, 155
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+symbolHood_Eye
+  rotate: false
+  xy: 1924, 138
+  size: 86, 43
+  orig: 86, 43
+  offset: 0, 0
+  index: -1
+symbolHood_EyeBrow
+  rotate: false
+  xy: 603, 3
+  size: 78, 26
+  orig: 78, 26
+  offset: 0, 0
+  index: -1
+symbolHood_Face
+  rotate: true
+  xy: 358, 586
+  size: 141, 148
+  orig: 141, 148
+  offset: 0, 0
+  index: -1
+symbolHood_Frame
+  rotate: true
+  xy: 1458, 753
+  size: 213, 221
+  orig: 213, 221
+  offset: 0, 0
+  index: -1
+symbolHood_Frame_Glow
+  rotate: false
+  xy: 1243, 125
+  size: 105, 106
+  orig: 105, 106
+  offset: 0, 0
+  index: -1
+symbolHood_Frame_Glow_2
+  rotate: false
+  xy: 1021, 76
+  size: 141, 143
+  orig: 141, 143
+  offset: 0, 0
+  index: -1
+symbolHood_Fridge
+  rotate: true
+  xy: 1556, 357
+  size: 179, 148
+  orig: 179, 148
+  offset: 0, 0
+  index: -1
+symbolHood_Fridge_02
+  rotate: false
+  xy: 1905, 792
+  size: 104, 174
+  orig: 104, 174
+  offset: 0, 0
+  index: -1
+symbolHood_Hood_Glow
+  rotate: true
+  xy: 263, 635
+  size: 92, 93
+  orig: 92, 93
+  offset: 0, 0
+  index: -1
+symbolHood_L_Eye_Close
+  rotate: true
+  xy: 756, 2
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+symbolHood_L_Eye_Open
+  rotate: true
+  xy: 1472, 2
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+symbolHood_L_Hair
+  rotate: false
+  xy: 1775, 363
+  size: 67, 115
+  orig: 67, 115
+  offset: 0, 0
+  index: -1
+symbolHood_L_Hair_2
+  rotate: false
+  xy: 1819, 155
+  size: 31, 103
+  orig: 31, 103
+  offset: 0, 0
+  index: -1
+symbolHood_L_Hair_Back
+  rotate: true
+  xy: 252, 475
+  size: 53, 73
+  orig: 53, 73
+  offset: 0, 0
+  index: -1
+symbolHood_Mouth_Open
+  rotate: true
+  xy: 1513, 14
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+symbolHood_R_Eye_Close
+  rotate: false
+  xy: 784, 9
+  size: 51, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+symbolHood_R_Eye_Open
+  rotate: false
+  xy: 1834, 501
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+symbolHood_R_Hair
+  rotate: false
+  xy: 924, 215
+  size: 55, 155
+  orig: 55, 155
+  offset: 0, 0
+  index: -1
+symbolHood_R_Hair_2
+  rotate: true
+  xy: 1924, 183
+  size: 52, 91
+  orig: 52, 91
+  offset: 0, 0
+  index: -1
+symbolHood_Ribbon
+  rotate: false
+  xy: 1021, 2
+  size: 104, 72
+  orig: 104, 72
+  offset: 0, 0
+  index: -1
+symbolHood_Ribbon_2
+  rotate: true
+  xy: 1852, 157
+  size: 78, 70
+  orig: 78, 70
+  offset: 0, 0
+  index: -1
+symbolHood_Smile
+  rotate: false
+  xy: 1350, 125
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+symbolHood_Sparks
+  rotate: true
+  xy: 1127, 2
+  size: 72, 68
+  orig: 72, 68
+  offset: 0, 0
+  index: -1
+symbolWolf_Sparks
+  rotate: true
+  xy: 1127, 2
+  size: 72, 68
+  orig: 72, 68
+  offset: 0, 0
+  index: -1
+symbolHood_Top_Hair
+  rotate: true
+  xy: 1197, 2
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+symbolHood_speechimpact_01
+  rotate: false
+  xy: 2, 712
+  size: 259, 254
+  orig: 259, 254
+  offset: 0, 0
+  index: -1
+symbolHood_speechimpact_01a
+  rotate: false
+  xy: 2, 475
+  size: 248, 235
+  orig: 248, 235
+  offset: 0, 0
+  index: -1
+symbolHood_speechimpact_02
+  rotate: false
+  xy: 1227, 747
+  size: 229, 219
+  orig: 229, 219
+  offset: 0, 0
+  index: -1
+symbolHood_speechimpact_03
+  rotate: false
+  xy: 737, 570
+  size: 217, 183
+  orig: 217, 183
+  offset: 0, 0
+  index: -1
+symbolHood_speechimpact_glow
+  rotate: false
+  xy: 731, 372
+  size: 202, 196
+  orig: 202, 196
+  offset: 0, 0
+  index: -1
+symbolHood_star_grey
+  rotate: false
+  xy: 1544, 13
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+symbolPoker_A
+  rotate: false
+  xy: 357, 376
+  size: 166, 208
+  orig: 166, 208
+  offset: 0, 0
+  index: -1
+symbolPoker_A_Shadow
+  rotate: true
+  xy: 1141, 374
+  size: 166, 208
+  orig: 166, 208
+  offset: 0, 0
+  index: -1
+symbolPoker_Frame
+  rotate: false
+  xy: 761, 755
+  size: 231, 211
+  orig: 231, 211
+  offset: 0, 0
+  index: -1
+symbolPoker_J
+  rotate: false
+  xy: 208, 2
+  size: 148, 195
+  orig: 148, 195
+  offset: 0, 0
+  index: -1
+symbolPoker_J_Shadow
+  rotate: false
+  xy: 1728, 255
+  size: 78, 101
+  orig: 78, 101
+  offset: 0, 0
+  index: -1
+symbolPoker_K
+  rotate: true
+  xy: 935, 373
+  size: 171, 204
+  orig: 171, 204
+  offset: 0, 0
+  index: -1
+symbolPoker_K_Shadow
+  rotate: false
+  xy: 1458, 140
+  size: 90, 106
+  orig: 90, 106
+  offset: 0, 0
+  index: -1
+symbolPoker_Q
+  rotate: true
+  xy: 723, 199
+  size: 171, 199
+  orig: 171, 199
+  offset: 0, 0
+  index: -1
+symbolPoker_Q_Shadow
+  rotate: false
+  xy: 1550, 148
+  size: 89, 102
+  orig: 89, 102
+  offset: 0, 0
+  index: -1
+symbolPoker_Shine01
+  rotate: false
+  xy: 1458, 49
+  size: 84, 89
+  orig: 84, 89
+  offset: 0, 0
+  index: -1
+symbolTail_Frame2
+  rotate: true
+  xy: 1351, 359
+  size: 181, 203
+  orig: 181, 203
+  offset: 0, 0
+  index: -1
+symbolTail_Shadow
+  rotate: true
+  xy: 1170, 542
+  size: 203, 207
+  orig: 203, 207
+  offset: 0, 0
+  index: -1
+symbolTail_Tail
+  rotate: true
+  xy: 1710, 544
+  size: 208, 193
+  orig: 208, 193
+  offset: 0, 0
+  index: -1
+symbolWolf_Eye
+  rotate: false
+  xy: 1641, 111
+  size: 99, 42
+  orig: 99, 42
+  offset: 0, 0
+  index: -1
+symbolWolf_Eye_Ball
+  rotate: true
+  xy: 1888, 77
+  size: 78, 33
+  orig: 78, 33
+  offset: 0, 0
+  index: -1
+symbolWolf_Face
+  rotate: true
+  xy: 218, 199
+  size: 274, 137
+  orig: 274, 137
+  offset: 0, 0
+  index: -1
+symbolWolf_Face_Fur
+  rotate: false
+  xy: 1710, 480
+  size: 122, 62
+  orig: 122, 62
+  offset: 0, 0
+  index: -1
+symbolWolf_Frame
+  rotate: true
+  xy: 1681, 754
+  size: 212, 222
+  orig: 212, 222
+  offset: 0, 0
+  index: -1
+symbolWolf_Frame_Glow
+  rotate: false
+  xy: 1350, 141
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+symbolWolf_Glow
+  rotate: true
+  xy: 508, 588
+  size: 166, 227
+  orig: 166, 227
+  offset: 0, 0
+  index: -1
+symbolWolf_Head
+  rotate: false
+  xy: 1336, 249
+  size: 142, 108
+  orig: 142, 108
+  offset: 0, 0
+  index: -1
+symbolWolf_Jaw
+  rotate: true
+  xy: 1562, 538
+  size: 213, 146
+  orig: 213, 146
+  offset: 0, 0
+  index: -1
+symbolWolf_JawBack
+  rotate: true
+  xy: 1133, 221
+  size: 136, 83
+  orig: 136, 83
+  offset: 0, 0
+  index: -1
+symbolWolf_L_Ear
+  rotate: false
+  xy: 1706, 358
+  size: 67, 120
+  orig: 67, 120
+  offset: 0, 0
+  index: -1
+symbolWolf_Lid_High
+  rotate: false
+  xy: 1368, 7
+  size: 102, 40
+  orig: 102, 40
+  offset: 0, 0
+  index: -1
+symbolWolf_Lid_Low
+  rotate: true
+  xy: 1808, 260
+  size: 101, 42
+  orig: 101, 42
+  offset: 0, 0
+  index: -1
+symbolWolf_R_Ear
+  rotate: false
+  xy: 1905, 625
+  size: 88, 165
+  orig: 88, 165
+  offset: 0, 0
+  index: -1
+symbolWolf_Saliva
+  rotate: false
+  xy: 327, 475
+  size: 23, 53
+  orig: 23, 53
+  offset: 0, 0
+  index: -1
+symbolWolf_Saliva_2
+  rotate: true
+  xy: 722, 28
+  size: 13, 31
+  orig: 13, 31
+  offset: 0, 0
+  index: -1
+symbolWolf_Teeth
+  rotate: true
+  xy: 1164, 84
+  size: 135, 77
+  orig: 135, 77
+  offset: 0, 0
+  index: -1
+symbolWolf_speechimpact_01
+  rotate: false
+  xy: 263, 729
+  size: 243, 237
+  orig: 243, 237
+  offset: 0, 0
+  index: -1
+symbolWolf_speechimpact_02
+  rotate: false
+  xy: 994, 747
+  size: 231, 219
+  orig: 231, 219
+  offset: 0, 0
+  index: -1
+symbolWolf_speechimpact_03
+  rotate: true
+  xy: 2, 2
+  size: 216, 204
+  orig: 216, 204
+  offset: 0, 0
+  index: -1
+symbolWolf_speechimpact_04
+  rotate: true
+  xy: 549, 184
+  size: 199, 172
+  orig: 199, 172
+  offset: 0, 0
+  index: -1
+symbolWolf_speechimpact_glow
+  rotate: false
+  xy: 525, 385
+  size: 204, 201
+  orig: 204, 201
+  offset: 0, 0
+  index: -1

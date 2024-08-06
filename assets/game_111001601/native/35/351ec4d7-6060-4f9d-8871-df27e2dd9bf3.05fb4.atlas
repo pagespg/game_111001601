@@ -1,0 +1,180 @@
+
+hood_aim_attact.png
+size: 1016,945
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_BTN/orangeRing_01
+  rotate: false
+  xy: 281, 462
+  size: 268, 263
+  orig: 326, 341
+  offset: 29, 41
+  index: -1
+FX_BTN/orangeRing_02
+  rotate: true
+  xy: 345, 13
+  size: 326, 341
+  orig: 326, 341
+  offset: 0, 0
+  index: -1
+FX_BTN/sparks_01
+  rotate: false
+  xy: 790, 648
+  size: 171, 160
+  orig: 326, 341
+  offset: 83, 96
+  index: -1
+FX_BTN/sparks_02
+  rotate: false
+  xy: 2, 465
+  size: 277, 260
+  orig: 326, 341
+  offset: 26, 45
+  index: -1
+FX_BTN/sparks_03
+  rotate: false
+  xy: 551, 341
+  size: 324, 305
+  orig: 326, 341
+  offset: 0, 16
+  index: -1
+FX_BTN/sparks_04
+  rotate: false
+  xy: 688, 2
+  size: 326, 337
+  orig: 326, 341
+  offset: 0, 2
+  index: -1
+FX_BTN/sparks_06
+  rotate: true
+  xy: 2, 136
+  size: 324, 341
+  orig: 326, 341
+  offset: 0, 0
+  index: -1
+_ga
+  rotate: true
+  xy: 775, 851
+  size: 92, 94
+  orig: 92, 94
+  offset: 0, 0
+  index: -1
+fs_aim_attack/attack_01
+  rotate: false
+  xy: 2, 736
+  size: 154, 145
+  orig: 154, 156
+  offset: 0, 0
+  index: -1
+fs_aim_attack/attack_02
+  rotate: true
+  xy: 158, 727
+  size: 154, 156
+  orig: 154, 156
+  offset: 0, 0
+  index: -1
+fs_aim_attack/attack_04
+  rotate: true
+  xy: 694, 866
+  size: 77, 79
+  orig: 77, 79
+  offset: 0, 0
+  index: -1
+fs_aim_attack/attack_05
+  rotate: true
+  xy: 316, 727
+  size: 154, 156
+  orig: 154, 156
+  offset: 0, 0
+  index: -1
+fs_aim_attack/attack_07
+  rotate: true
+  xy: 474, 727
+  size: 154, 156
+  orig: 154, 156
+  offset: 0, 0
+  index: -1
+fs_aim_attack/attack_08
+  rotate: true
+  xy: 632, 695
+  size: 154, 156
+  orig: 154, 156
+  offset: 0, 0
+  index: -1
+hood_aim_attact_track/rageHoodSlash_00
+  rotate: true
+  xy: 348, 914
+  size: 29, 344
+  orig: 29, 344
+  offset: 0, 0
+  index: -1
+hood_aim_attact_track/rageHoodSlash_01
+  rotate: true
+  xy: 2, 883
+  size: 29, 344
+  orig: 29, 344
+  offset: 0, 0
+  index: -1
+hood_aim_attact_track/rageHoodSlash_02
+  rotate: true
+  xy: 348, 883
+  size: 29, 344
+  orig: 29, 344
+  offset: 0, 0
+  index: -1
+hood_aim_attact_track/rageHoodSlash_03
+  rotate: true
+  xy: 2, 914
+  size: 29, 344
+  orig: 29, 344
+  offset: 0, 0
+  index: -1
+hood_star
+  rotate: false
+  xy: 871, 810
+  size: 134, 133
+  orig: 154, 151
+  offset: 10, 8
+  index: -1
+
+hood_aim_attact2.png
+size: 986,673
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_BTN/orangeRing_03
+  rotate: false
+  xy: 2, 330
+  size: 326, 341
+  orig: 326, 341
+  offset: 0, 0
+  index: -1
+FX_BTN/orangeRing_04
+  rotate: false
+  xy: 330, 330
+  size: 326, 341
+  orig: 326, 341
+  offset: 0, 0
+  index: -1
+FX_BTN/orangeRing_05
+  rotate: true
+  xy: 2, 2
+  size: 326, 341
+  orig: 326, 341
+  offset: 0, 0
+  index: -1
+FX_BTN/orangeRing_06
+  rotate: false
+  xy: 658, 330
+  size: 326, 341
+  orig: 326, 341
+  offset: 0, 0
+  index: -1
+FX_BTN/sparks_05
+  rotate: true
+  xy: 345, 2
+  size: 326, 341
+  orig: 326, 341
+  offset: 0, 0
+  index: -1

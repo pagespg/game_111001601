@@ -1,0 +1,20 @@
+
+finger_hood_win.png
+size: 235,106
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+finger_hood_win
+  rotate: true
+  xy: 2, 2
+  size: 102, 130
+  orig: 102, 130
+  offset: 0, 0
+  index: -1
+hood_fg_bg_drop
+  rotate: false
+  xy: 134, 5
+  size: 99, 99
+  orig: 102, 103
+  offset: 2, 2
+  index: -1

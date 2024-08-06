@@ -1,0 +1,97 @@
+
+bg_hood_seek.png
+size: 1225,532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lipstick_trail/lipstick_trail_01
+  rotate: false
+  xy: 1085, 98
+  size: 41, 14
+  orig: 41, 79
+  offset: 0, 0
+  index: -1
+lipstick_trail/lipstick_trail_02
+  rotate: false
+  xy: 1085, 114
+  size: 114, 148
+  orig: 114, 148
+  offset: 0, 0
+  index: -1
+lipstick_trail/lipstick_trail_03
+  rotate: true
+  xy: 1074, 264
+  size: 266, 149
+  orig: 266, 149
+  offset: 0, 0
+  index: -1
+lipstick_trail/lipstick_trail_04
+  rotate: false
+  xy: 538, 29
+  size: 267, 236
+  orig: 267, 236
+  offset: 0, 0
+  index: -1
+lipstick_trail/lipstick_trail_05
+  rotate: false
+  xy: 2, 267
+  size: 267, 263
+  orig: 267, 263
+  offset: 0, 0
+  index: -1
+lipstick_trail/lipstick_trail_06
+  rotate: false
+  xy: 271, 267
+  size: 267, 263
+  orig: 267, 263
+  offset: 0, 0
+  index: -1
+lipstick_trail/lipstick_trail_07
+  rotate: false
+  xy: 540, 267
+  size: 267, 263
+  orig: 267, 263
+  offset: 0, 0
+  index: -1
+lipstick_trail/lipstick_trail_08
+  rotate: true
+  xy: 809, 263
+  size: 267, 263
+  orig: 267, 263
+  offset: 0, 0
+  index: -1
+lipstick_trail/lipstick_trail_09
+  rotate: false
+  xy: 2, 2
+  size: 267, 263
+  orig: 267, 263
+  offset: 0, 0
+  index: -1
+lipstick_trail/lipstick_trail_10
+  rotate: false
+  xy: 271, 2
+  size: 265, 263
+  orig: 266, 263
+  offset: 1, 0
+  index: -1
+lipstick_trail/lipstick_trail_11
+  rotate: false
+  xy: 807, 18
+  size: 261, 243
+  orig: 264, 252
+  offset: 3, 0
+  index: -1
+lipstick_trail/lipstick_trail_12
+  rotate: true
+  xy: 1074, 9
+  size: 253, 9
+  orig: 260, 135
+  offset: 7, 0
+  index: -1
+lipstick_trail/lipstick_trail_13
+  rotate: false
+  xy: 1070, 260
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+fonts.png
+size: 889,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_art_word/bonus_sfx_shu
+  rotate: true
+  xy: 670, 11
+  size: 160, 217
+  orig: 160, 217
+  offset: 0, 0
+  index: -1
+bg_art_word/sfx_do
+  rotate: true
+  xy: 2, 2
+  size: 169, 666
+  orig: 169, 667
+  offset: 0, 1
+  index: -1

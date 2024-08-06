@@ -1,0 +1,146 @@
+
+hood_aim1.png
+size: 1621,1054
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_BTN/orangeRing_01
+  rotate: true
+  xy: 285, 16
+  size: 290, 285
+  orig: 354, 371
+  offset: 32, 45
+  index: -1
+FX_BTN/orangeRing_02
+  rotate: false
+  xy: 2, 681
+  size: 354, 371
+  orig: 354, 371
+  offset: 0, 0
+  index: -1
+FX_BTN/orangeRing_03
+  rotate: false
+  xy: 2, 308
+  size: 354, 371
+  orig: 354, 371
+  offset: 0, 0
+  index: -1
+FX_BTN/orangeRing_04
+  rotate: false
+  xy: 358, 681
+  size: 354, 371
+  orig: 354, 371
+  offset: 0, 0
+  index: -1
+FX_BTN/orangeRing_05
+  rotate: false
+  xy: 358, 308
+  size: 354, 371
+  orig: 354, 371
+  offset: 0, 0
+  index: -1
+FX_BTN/orangeRing_06
+  rotate: false
+  xy: 714, 681
+  size: 354, 371
+  orig: 354, 371
+  offset: 0, 0
+  index: -1
+FX_BTN/sparks_01
+  rotate: true
+  xy: 1424, 345
+  size: 184, 173
+  orig: 354, 371
+  offset: 91, 105
+  index: -1
+FX_BTN/sparks_02
+  rotate: true
+  xy: 2, 6
+  size: 300, 281
+  orig: 354, 371
+  offset: 29, 50
+  index: -1
+FX_BTN/sparks_03
+  rotate: false
+  xy: 1147, 2
+  size: 350, 331
+  orig: 354, 371
+  offset: 1, 18
+  index: -1
+FX_BTN/sparks_04
+  rotate: false
+  xy: 1070, 335
+  size: 352, 365
+  orig: 354, 371
+  offset: 1, 3
+  index: -1
+FX_BTN/sparks_05
+  rotate: false
+  xy: 714, 308
+  size: 354, 371
+  orig: 354, 371
+  offset: 0, 0
+  index: -1
+FX_BTN/sparks_06
+  rotate: true
+  xy: 1070, 702
+  size: 350, 371
+  orig: 354, 371
+  offset: 1, 0
+  index: -1
+_ga
+  rotate: true
+  xy: 572, 4
+  size: 100, 83
+  orig: 100, 83
+  offset: 0, 0
+  index: -1
+hood_aim_pattern/lipstick
+  rotate: false
+  xy: 1499, 28
+  size: 115, 144
+  orig: 200, 200
+  offset: 0, 31
+  index: -1
+hood_aim_pattern/lipstick00
+  rotate: false
+  xy: 1499, 174
+  size: 115, 169
+  orig: 200, 200
+  offset: 0, 31
+  index: -1
+hood_aim_pattern/lipstick01
+  rotate: false
+  xy: 1424, 531
+  size: 195, 169
+  orig: 200, 200
+  offset: 0, 31
+  index: -1
+hood_aim_pattern/lipstick02
+  rotate: true
+  xy: 976, 106
+  size: 200, 169
+  orig: 200, 200
+  offset: 0, 31
+  index: -1
+hood_aim_pattern/lipstick03
+  rotate: false
+  xy: 572, 106
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+hood_aim_pattern/lipstick_greyscale
+  rotate: false
+  xy: 774, 106
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+hood_star
+  rotate: false
+  xy: 1443, 907
+  size: 145, 145
+  orig: 167, 164
+  offset: 11, 8
+  index: -1

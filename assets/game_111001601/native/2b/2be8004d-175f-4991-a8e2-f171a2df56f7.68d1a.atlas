@@ -1,0 +1,159 @@
+
+freeenter_bg_wolf.png
+size: 1158,1158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fastline_change
+  rotate: true
+  xy: 2, 1128
+  size: 28, 281
+  orig: 28, 281
+  offset: 0, 0
+  index: -1
+hood_cloak/cape_bonus_000
+  rotate: false
+  xy: 285, 1014
+  size: 241, 142
+  orig: 241, 152
+  offset: 0, 0
+  index: -1
+hood_cloak/cape_bonus_001
+  rotate: false
+  xy: 528, 1014
+  size: 241, 142
+  orig: 241, 152
+  offset: 0, 0
+  index: -1
+hood_cloak/cape_bonus_002
+  rotate: false
+  xy: 771, 1014
+  size: 241, 142
+  orig: 241, 152
+  offset: 0, 0
+  index: -1
+hood_cloak/cape_bonus_003
+  rotate: false
+  xy: 2, 984
+  size: 241, 142
+  orig: 241, 152
+  offset: 0, 0
+  index: -1
+hood_cloak/cape_bonus_004
+  rotate: true
+  xy: 1014, 915
+  size: 241, 142
+  orig: 241, 152
+  offset: 0, 0
+  index: -1
+hood_cloak/cape_bonus_005
+  rotate: false
+  xy: 245, 870
+  size: 241, 142
+  orig: 241, 152
+  offset: 0, 0
+  index: -1
+hood_cloak/cape_bonus_006
+  rotate: false
+  xy: 488, 870
+  size: 241, 142
+  orig: 241, 152
+  offset: 0, 0
+  index: -1
+hood_cloak/cape_bonus_007
+  rotate: false
+  xy: 731, 870
+  size: 241, 142
+  orig: 241, 152
+  offset: 0, 0
+  index: -1
+hood_cloak/cape_bonus_008
+  rotate: false
+  xy: 2, 840
+  size: 241, 142
+  orig: 241, 152
+  offset: 0, 0
+  index: -1
+hood_turn_swipe/cape_swipe_000
+  rotate: true
+  xy: 2, 244
+  size: 230, 374
+  orig: 231, 440
+  offset: 1, 0
+  index: -1
+hood_turn_swipe/cape_swipe_001
+  rotate: true
+  xy: 725, 640
+  size: 228, 390
+  orig: 231, 448
+  offset: 2, 0
+  index: -1
+hood_turn_swipe/cape_swipe_002
+  rotate: true
+  xy: 518, 426
+  size: 212, 477
+  orig: 223, 506
+  offset: 11, 0
+  index: -1
+hood_turn_swipe/cape_swipe_003
+  rotate: true
+  xy: 2, 476
+  size: 198, 514
+  orig: 213, 528
+  offset: 15, 2
+  index: -1
+hood_turn_swipe/cape_swipe_004
+  rotate: true
+  xy: 245, 676
+  size: 192, 478
+  orig: 213, 502
+  offset: 21, 0
+  index: -1
+hood_turn_swipe/cape_swipe_005
+  rotate: true
+  xy: 378, 194
+  size: 230, 422
+  orig: 231, 468
+  offset: 1, 0
+  index: -1
+sl/zoomLine_03
+  rotate: true
+  xy: 802, 2
+  size: 422, 238
+  orig: 422, 238
+  offset: 0, 0
+  index: -1
+
+freeenter_bg_wolf2.png
+size: 754,666
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 79
+  size: 270, 585
+  orig: 270, 585
+  offset: 0, 0
+  index: -1
+sl/zoomLine_00
+  rotate: false
+  xy: 274, 426
+  size: 422, 238
+  orig: 422, 238
+  offset: 0, 0
+  index: -1
+sl/zoomLine_01
+  rotate: true
+  xy: 274, 2
+  size: 422, 238
+  orig: 422, 238
+  offset: 0, 0
+  index: -1
+sl/zoomLine_02
+  rotate: true
+  xy: 514, 2
+  size: 422, 238
+  orig: 422, 238
+  offset: 0, 0
+  index: -1

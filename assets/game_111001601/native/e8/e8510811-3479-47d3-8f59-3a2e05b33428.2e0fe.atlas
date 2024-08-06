@@ -1,0 +1,167 @@
+
+bg_wolf_hide.png
+size: 1786,690
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Langbi-zuoqian
+  rotate: false
+  xy: 297, 294
+  size: 369, 394
+  orig: 369, 394
+  offset: 0, 0
+  index: -1
+Langweiba
+  rotate: true
+  xy: 732, 2
+  size: 310, 215
+  orig: 310, 215
+  offset: 0, 0
+  index: -1
+langbeimao-qian
+  rotate: true
+  xy: 668, 314
+  size: 374, 246
+  orig: 374, 246
+  offset: 0, 0
+  index: -1
+langbi-youbei
+  rotate: true
+  xy: 2, 244
+  size: 444, 293
+  orig: 444, 293
+  offset: 0, 0
+  index: -1
+langbi-youqian
+  rotate: true
+  xy: 1456, 493
+  size: 195, 310
+  orig: 195, 310
+  offset: 0, 0
+  index: -1
+langbizi
+  rotate: false
+  xy: 949, 5
+  size: 343, 330
+  orig: 343, 330
+  offset: 0, 0
+  index: -1
+langerduo
+  rotate: false
+  xy: 1456, 320
+  size: 243, 171
+  orig: 243, 171
+  offset: 0, 0
+  index: -1
+langmeigu-guanyan
+  rotate: true
+  xy: 1294, 177
+  size: 194, 158
+  orig: 194, 158
+  offset: 0, 0
+  index: -1
+langmuzhi
+  rotate: true
+  xy: 1513, 64
+  size: 107, 144
+  orig: 107, 144
+  offset: 0, 0
+  index: -1
+langshanger
+  rotate: true
+  xy: 2, 3
+  size: 239, 142
+  orig: 239, 142
+  offset: 0, 0
+  index: -1
+langshouzhang-you
+  rotate: true
+  xy: 592, 27
+  size: 265, 138
+  orig: 265, 138
+  offset: 0, 0
+  index: -1
+langshouzhang-zuo
+  rotate: false
+  xy: 423, 25
+  size: 167, 267
+  orig: 167, 267
+  offset: 0, 0
+  index: -1
+langshouzi-you1
+  rotate: false
+  xy: 1558, 173
+  size: 120, 145
+  orig: 120, 145
+  offset: 0, 0
+  index: -1
+langshouzi-you2
+  rotate: false
+  xy: 1680, 105
+  size: 104, 152
+  orig: 104, 152
+  offset: 0, 0
+  index: -1
+langshouzi-you3
+  rotate: false
+  xy: 1454, 184
+  size: 102, 134
+  orig: 102, 134
+  offset: 0, 0
+  index: -1
+langshouzi-zuo1
+  rotate: true
+  xy: 1388, 8
+  size: 167, 123
+  orig: 167, 123
+  offset: 0, 0
+  index: -1
+langshouzi-zuo2
+  rotate: true
+  xy: 1294, 4
+  size: 171, 92
+  orig: 171, 92
+  offset: 0, 0
+  index: -1
+langshouzi-zuo3
+  rotate: true
+  xy: 1701, 259
+  size: 129, 73
+  orig: 129, 73
+  offset: 0, 0
+  index: -1
+langtou-bei
+  rotate: true
+  xy: 1149, 373
+  size: 315, 305
+  orig: 315, 305
+  offset: 0, 0
+  index: -1
+langxiaba
+  rotate: true
+  xy: 916, 337
+  size: 351, 231
+  orig: 351, 231
+  offset: 0, 0
+  index: -1
+langxiaer
+  rotate: true
+  xy: 146, 5
+  size: 237, 96
+  orig: 237, 96
+  offset: 0, 0
+  index: -1
+langxiongbu
+  rotate: false
+  xy: 244, 6
+  size: 177, 236
+  orig: 177, 236
+  offset: 0, 0
+  index: -1
+langyanpi
+  rotate: false
+  xy: 1701, 390
+  size: 77, 101
+  orig: 77, 101
+  offset: 0, 0
+  index: -1

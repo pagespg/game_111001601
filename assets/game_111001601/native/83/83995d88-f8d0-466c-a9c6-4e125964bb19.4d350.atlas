@@ -1,0 +1,104 @@
+
+FX_winning_frontstar.jpg
+size: 2018,760
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_BTN/orangeRing_01
+  rotate: false
+  xy: 1726, 2
+  size: 290, 285
+  orig: 354, 371
+  offset: 32, 45
+  index: -1
+FX_BTN/orangeRing_02
+  rotate: false
+  xy: 2, 387
+  size: 354, 371
+  orig: 354, 371
+  offset: 0, 0
+  index: -1
+FX_BTN/orangeRing_03
+  rotate: false
+  xy: 2, 14
+  size: 354, 371
+  orig: 354, 371
+  offset: 0, 0
+  index: -1
+FX_BTN/orangeRing_04
+  rotate: false
+  xy: 358, 387
+  size: 354, 371
+  orig: 354, 371
+  offset: 0, 0
+  index: -1
+FX_BTN/orangeRing_05
+  rotate: false
+  xy: 358, 14
+  size: 354, 371
+  orig: 354, 371
+  offset: 0, 0
+  index: -1
+FX_BTN/orangeRing_06
+  rotate: false
+  xy: 714, 387
+  size: 354, 371
+  orig: 354, 371
+  offset: 0, 0
+  index: -1
+FX_BTN/sparks_01
+  rotate: false
+  xy: 1755, 585
+  size: 184, 173
+  orig: 354, 371
+  offset: 91, 105
+  index: -1
+FX_BTN/sparks_02
+  rotate: false
+  xy: 1424, 125
+  size: 300, 281
+  orig: 354, 371
+  offset: 29, 50
+  index: -1
+FX_BTN/sparks_03
+  rotate: true
+  xy: 1422, 408
+  size: 350, 331
+  orig: 354, 371
+  offset: 1, 18
+  index: -1
+FX_BTN/sparks_04
+  rotate: false
+  xy: 1070, 20
+  size: 352, 365
+  orig: 354, 371
+  offset: 1, 3
+  index: -1
+FX_BTN/sparks_05
+  rotate: false
+  xy: 714, 14
+  size: 354, 371
+  orig: 354, 371
+  offset: 0, 0
+  index: -1
+FX_BTN/sparks_06
+  rotate: false
+  xy: 1070, 387
+  size: 350, 371
+  orig: 354, 371
+  offset: 1, 0
+  index: -1
+click_c
+  rotate: false
+  xy: 1755, 436
+  size: 149, 147
+  orig: 200, 200
+  offset: 25, 27
+  index: -1
+hood_star
+  rotate: false
+  xy: 1755, 289
+  size: 145, 145
+  orig: 167, 164
+  offset: 11, 8
+  index: -1

@@ -1,0 +1,13 @@
+
+bigwin_bglight.png
+size: 164,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_light/bg_glow
+  rotate: false
+  xy: 2, 2
+  size: 160, 151
+  orig: 160, 151
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+symbol_wild_zh.png
+size: 451,258
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+symbolWild_Starshape
+  rotate: true
+  xy: 2, 2
+  size: 254, 280
+  orig: 254, 280
+  offset: 0, 0
+  index: -1
+symbolWild_smoke
+  rotate: true
+  xy: 284, 5
+  size: 54, 92
+  orig: 54, 92
+  offset: 0, 0
+  index: -1
+wild_zh00
+  rotate: false
+  xy: 284, 61
+  size: 92, 99
+  orig: 92, 99
+  offset: 0, 0
+  index: -1
+wild_zh01
+  rotate: false
+  xy: 284, 162
+  size: 107, 94
+  orig: 107, 94
+  offset: 0, 0
+  index: -1
+wild_zh_fx
+  rotate: true
+  xy: 393, 161
+  size: 95, 56
+  orig: 95, 56
+  offset: 0, 0
+  index: -1
+wild_zh_fx_shine01
+  rotate: false
+  xy: 378, 53
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+wild_zh_fx_shine02
+  rotate: false
+  xy: 378, 125
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+wild_zh_fx_shine03
+  rotate: false
+  xy: 378, 89
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1

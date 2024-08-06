@@ -1,0 +1,13 @@
+
+cqxingxing.jpg
+size: 149,149
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hood_star
+  rotate: false
+  xy: 2, 2
+  size: 145, 145
+  orig: 167, 164
+  offset: 11, 8
+  index: -1

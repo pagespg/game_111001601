@@ -1,0 +1,48 @@
+
+skeleton.png
+size: 419,65
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs_end_button_light/efx_bg-impact_00
+  rotate: false
+  xy: 2, 2
+  size: 61, 61
+  orig: 72, 69
+  offset: 11, 0
+  index: -1
+fs_end_button_light/efx_bg-impact_01
+  rotate: false
+  xy: 128, 2
+  size: 59, 61
+  orig: 72, 69
+  offset: 12, 0
+  index: -1
+fs_end_button_light/efx_bg-impact_02
+  rotate: false
+  xy: 65, 2
+  size: 61, 61
+  orig: 72, 69
+  offset: 11, 0
+  index: -1
+fs_end_button_light/efx_bg-impact_03
+  rotate: false
+  xy: 189, 2
+  size: 59, 61
+  orig: 72, 69
+  offset: 13, 0
+  index: -1
+fs_end_button_light/efx_bg-impact_04
+  rotate: false
+  xy: 250, 3
+  size: 50, 60
+  orig: 72, 69
+  offset: 22, 0
+  index: -1
+light
+  rotate: false
+  xy: 302, 11
+  size: 115, 52
+  orig: 116, 53
+  offset: 0, 1
+  index: -1

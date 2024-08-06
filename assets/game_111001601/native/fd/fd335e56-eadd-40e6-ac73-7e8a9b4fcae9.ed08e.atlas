@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 1143,251
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_impact
+  rotate: false
+  xy: 2, 12
+  size: 720, 237
+  orig: 720, 237
+  offset: 0, 0
+  index: -1
+glow_b
+  rotate: true
+  xy: 724, 2
+  size: 247, 270
+  orig: 247, 270
+  offset: 0, 0
+  index: -1
+hood_star
+  rotate: false
+  xy: 996, 104
+  size: 145, 145
+  orig: 167, 164
+  offset: 11, 8
+  index: -1

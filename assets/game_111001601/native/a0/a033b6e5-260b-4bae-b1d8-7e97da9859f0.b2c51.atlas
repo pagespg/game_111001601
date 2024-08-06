@@ -1,0 +1,145 @@
+
+skeleton.png
+size: 1371,1396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+botbar_pattern01
+  rotate: false
+  xy: 2, 1347
+  size: 966, 47
+  orig: 971, 47
+  offset: 5, 0
+  index: -1
+botbar_pattern02
+  rotate: true
+  xy: 1342, 623
+  size: 771, 27
+  orig: 771, 27
+  offset: 0, 0
+  index: -1
+cape_hood
+  rotate: true
+  xy: 951, 37
+  size: 243, 275
+  orig: 243, 275
+  offset: 0, 0
+  index: -1
+fx_zoomblur_hood
+  rotate: true
+  xy: 2, 1006
+  size: 339, 733
+  orig: 339, 733
+  offset: 0, 0
+  index: -1
+hood_end_bg_pattern
+  rotate: true
+  xy: 2, 189
+  size: 618, 723
+  orig: 633, 750
+  offset: 6, 27
+  index: -1
+l_bar_pattern01
+  rotate: false
+  xy: 727, 357
+  size: 223, 453
+  orig: 223, 453
+  offset: 0, 0
+  index: -1
+light/energy02_01
+  rotate: false
+  xy: 952, 672
+  size: 353, 135
+  orig: 353, 458
+  offset: 0, 80
+  index: -1
+light/energy02_02
+  rotate: true
+  xy: 727, 2
+  size: 353, 222
+  orig: 353, 458
+  offset: 0, 84
+  index: -1
+light/energy02_05
+  rotate: true
+  xy: 952, 282
+  size: 339, 338
+  orig: 353, 458
+  offset: 7, 66
+  index: -1
+polkadot_tile
+  rotate: true
+  xy: 634, 994
+  size: 10, 324
+  orig: 23, 324
+  offset: 6, 0
+  index: -1
+ui_bg_glow_hood
+  rotate: true
+  xy: 970, 809
+  size: 585, 370
+  orig: 585, 370
+  offset: 0, 0
+  index: -1
+yatta_01
+  rotate: true
+  xy: 1228, 83
+  size: 197, 115
+  orig: 197, 115
+  offset: 0, 0
+  index: -1
+yatta_02
+  rotate: false
+  xy: 634, 812
+  size: 300, 180
+  orig: 300, 180
+  offset: 0, 0
+  index: -1
+yuadian
+  rotate: false
+  xy: 2, 821
+  size: 630, 183
+  orig: 630, 630
+  offset: 0, 447
+  index: -1
+
+skeleton2.png
+size: 957,594
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 65
+  size: 243, 527
+  orig: 243, 527
+  offset: 0, 0
+  index: -1
+light/energy02_03
+  rotate: false
+  xy: 247, 297
+  size: 353, 295
+  orig: 353, 458
+  offset: 0, 80
+  index: -1
+light/energy02_04
+  rotate: false
+  xy: 602, 297
+  size: 353, 295
+  orig: 353, 458
+  offset: 0, 80
+  index: -1
+light/energy02_06
+  rotate: true
+  xy: 247, 8
+  size: 287, 352
+  orig: 353, 458
+  offset: 39, 52
+  index: -1
+light/energy02_07
+  rotate: true
+  xy: 601, 2
+  size: 293, 350
+  orig: 353, 458
+  offset: 33, 54
+  index: -1

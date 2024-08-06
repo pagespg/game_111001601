@@ -1,0 +1,41 @@
+
+dikuang.png
+size: 823,265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 137
+  size: 631, 126
+  orig: 631, 126
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 9
+  size: 631, 126
+  orig: 631, 126
+  offset: 0, 0
+  index: -1
+hood_star
+  rotate: false
+  xy: 635, 118
+  size: 145, 145
+  orig: 167, 164
+  offset: 11, 8
+  index: -1
+icon_loudspeaker
+  rotate: true
+  xy: 635, 2
+  size: 114, 115
+  orig: 114, 115
+  offset: 0, 0
+  index: -1
+icon_loudspeaker_3_lines
+  rotate: false
+  xy: 752, 26
+  size: 69, 90
+  orig: 69, 90
+  offset: 0, 0
+  index: -1

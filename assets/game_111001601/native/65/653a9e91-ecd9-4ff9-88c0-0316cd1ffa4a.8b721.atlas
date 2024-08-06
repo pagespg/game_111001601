@@ -1,0 +1,41 @@
+
+bg_crop_wolf_eye.png
+size: 569,189
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glass_glow
+  rotate: false
+  xy: 517, 30
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+hood_eye_shine
+  rotate: false
+  xy: 439, 56
+  size: 128, 131
+  orig: 132, 131
+  offset: 4, 0
+  index: -1
+wolf_eyes
+  rotate: false
+  xy: 2, 2
+  size: 435, 185
+  orig: 436, 185
+  offset: 1, 0
+  index: -1
+wolf_eyes_L
+  rotate: false
+  xy: 483, 26
+  size: 32, 28
+  orig: 34, 30
+  offset: 1, 1
+  index: -1
+wolf_eyes_R
+  rotate: false
+  xy: 439, 24
+  size: 42, 30
+  orig: 45, 31
+  offset: 1, 1
+  index: -1

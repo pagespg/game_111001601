@@ -1,0 +1,173 @@
+
+skeleton.png
+size: 1400,1284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: true
+  xy: 357, 643
+  size: 243, 305
+  orig: 243, 527
+  offset: 0, 222
+  index: -1
+botbar_bottom
+  rotate: false
+  xy: 297, 2
+  size: 710, 293
+  orig: 710, 293
+  offset: 0, 0
+  index: -1
+botbar_pattern01
+  rotate: false
+  xy: 2, 1129
+  size: 966, 47
+  orig: 971, 47
+  offset: 5, 0
+  index: -1
+botbar_pattern02
+  rotate: false
+  xy: 2, 1230
+  size: 771, 27
+  orig: 771, 27
+  offset: 0, 0
+  index: -1
+botbar_pattern04
+  rotate: false
+  xy: 816, 830
+  size: 487, 211
+  orig: 487, 211
+  offset: 0, 0
+  index: -1
+botbar_top
+  rotate: false
+  xy: 2, 1036
+  size: 812, 91
+  orig: 812, 91
+  offset: 0, 0
+  index: -1
+l_bar_bottom
+  rotate: true
+  xy: 664, 591
+  size: 237, 584
+  orig: 237, 584
+  offset: 0, 0
+  index: -1
+l_bar_pattern02
+  rotate: true
+  xy: 2, 1259
+  size: 23, 685
+  orig: 23, 685
+  offset: 0, 0
+  index: -1
+l_bar_top
+  rotate: true
+  xy: 2, 1194
+  size: 34, 754
+  orig: 34, 754
+  offset: 0, 0
+  index: -1
+woon_01
+  rotate: true
+  xy: 2, 888
+  size: 146, 608
+  orig: 146, 608
+  offset: 0, 0
+  index: -1
+woon_02
+  rotate: true
+  xy: 775, 1178
+  size: 104, 419
+  orig: 104, 419
+  offset: 0, 0
+  index: -1
+光/energy02_01
+  rotate: false
+  xy: 970, 1043
+  size: 353, 133
+  orig: 353, 133
+  offset: 0, 0
+  index: -1
+光/energy02_02
+  rotate: false
+  xy: 2, 665
+  size: 353, 221
+  orig: 353, 221
+  offset: 0, 0
+  index: -1
+光/energy02_03
+  rotate: true
+  xy: 2, 22
+  size: 353, 293
+  orig: 353, 293
+  offset: 0, 0
+  index: -1
+光/energy02_04
+  rotate: false
+  xy: 355, 301
+  size: 353, 288
+  orig: 353, 288
+  offset: 0, 0
+  index: -1
+光/energy02_05
+  rotate: true
+  xy: 1061, 251
+  size: 338, 337
+  orig: 338, 337
+  offset: 0, 0
+  index: -1
+光/energy02_06
+  rotate: true
+  xy: 2, 377
+  size: 286, 351
+  orig: 286, 351
+  offset: 0, 0
+  index: -1
+光/energy02_07
+  rotate: true
+  xy: 710, 297
+  size: 292, 349
+  orig: 292, 349
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 1348,1197
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cape_wolf
+  rotate: true
+  xy: 663, 709
+  size: 486, 549
+  orig: 486, 549
+  offset: 0, 0
+  index: -1
+ss
+  rotate: true
+  xy: 2, 139
+  size: 343, 726
+  orig: 343, 726
+  offset: 0, 0
+  index: -1
+ui_bg_glow_hood
+  rotate: false
+  xy: 730, 337
+  size: 585, 370
+  orig: 585, 370
+  offset: 0, 0
+  index: -1
+wolf_end_bg_pattern
+  rotate: true
+  xy: 2, 484
+  size: 711, 659
+  orig: 711, 659
+  offset: 0, 0
+  index: -1
+yuadian
+  rotate: false
+  xy: 730, 2
+  size: 616, 333
+  orig: 630, 630
+  offset: 8, 257
+  index: -1

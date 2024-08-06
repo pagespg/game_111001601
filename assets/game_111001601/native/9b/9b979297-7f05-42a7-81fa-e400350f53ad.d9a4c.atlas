@@ -1,0 +1,212 @@
+
+free_enter.png
+size: 1069,1087
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_BTN/orangeRing_01
+  rotate: false
+  xy: 275, 668
+  size: 263, 258
+  orig: 319, 334
+  offset: 28, 40
+  index: -1
+FX_BTN/sparks_01
+  rotate: false
+  xy: 490, 928
+  size: 166, 157
+  orig: 319, 334
+  offset: 82, 94
+  index: -1
+FX_BTN/sparks_02
+  rotate: false
+  xy: 2, 695
+  size: 271, 253
+  orig: 319, 334
+  offset: 26, 45
+  index: -1
+FX_BTN/sparks_03
+  rotate: false
+  xy: 2, 78
+  size: 317, 299
+  orig: 319, 334
+  offset: 0, 16
+  index: -1
+FX_BTN/sparks_06
+  rotate: true
+  xy: 676, 2
+  size: 317, 334
+  orig: 319, 334
+  offset: 0, 0
+  index: -1
+bg
+  rotate: true
+  xy: 540, 618
+  size: 243, 527
+  orig: 243, 527
+  offset: 0, 0
+  index: -1
+hood_star
+  rotate: true
+  xy: 2, 955
+  size: 130, 131
+  orig: 150, 148
+  offset: 10, 7
+  index: -1
+light/energy02_01
+  rotate: false
+  xy: 135, 950
+  size: 353, 135
+  orig: 353, 458
+  offset: 0, 80
+  index: -1
+light/energy02_02
+  rotate: false
+  xy: 658, 863
+  size: 353, 222
+  orig: 353, 458
+  offset: 0, 84
+  index: -1
+light/energy02_03
+  rotate: false
+  xy: 708, 321
+  size: 353, 295
+  orig: 353, 458
+  offset: 0, 80
+  index: -1
+light/energy02_04
+  rotate: false
+  xy: 321, 26
+  size: 353, 295
+  orig: 353, 458
+  offset: 0, 80
+  index: -1
+light/energy02_06
+  rotate: true
+  xy: 2, 379
+  size: 287, 352
+  orig: 353, 458
+  offset: 39, 52
+  index: -1
+light/energy02_07
+  rotate: true
+  xy: 356, 323
+  size: 293, 350
+  orig: 353, 458
+  offset: 33, 54
+  index: -1
+
+free_enter2.png
+size: 1010,984
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_BTN/orangeRing_02
+  rotate: true
+  xy: 2, 663
+  size: 319, 334
+  orig: 319, 334
+  offset: 0, 0
+  index: -1
+FX_BTN/orangeRing_03
+  rotate: true
+  xy: 338, 663
+  size: 319, 334
+  orig: 319, 334
+  offset: 0, 0
+  index: -1
+FX_BTN/orangeRing_04
+  rotate: true
+  xy: 674, 663
+  size: 319, 334
+  orig: 319, 334
+  offset: 0, 0
+  index: -1
+FX_BTN/orangeRing_05
+  rotate: true
+  xy: 2, 342
+  size: 319, 334
+  orig: 319, 334
+  offset: 0, 0
+  index: -1
+FX_BTN/orangeRing_06
+  rotate: true
+  xy: 338, 342
+  size: 319, 334
+  orig: 319, 334
+  offset: 0, 0
+  index: -1
+FX_BTN/sparks_04
+  rotate: true
+  xy: 674, 342
+  size: 319, 330
+  orig: 319, 334
+  offset: 0, 2
+  index: -1
+FX_BTN/sparks_05
+  rotate: true
+  xy: 2, 21
+  size: 319, 334
+  orig: 319, 334
+  offset: 0, 0
+  index: -1
+light/energy02_05
+  rotate: false
+  xy: 338, 2
+  size: 339, 338
+  orig: 353, 458
+  offset: 7, 66
+  index: -1
+
+free_enter3.png
+size: 1078,863
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_hood_won
+  rotate: false
+  xy: 2, 2
+  size: 1074, 859
+  orig: 1074, 859
+  offset: 0, 0
+  index: -1
+
+free_enter4.png
+size: 1077,864
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+enter_wolf_fs
+  rotate: false
+  xy: 2, 2
+  size: 1073, 860
+  orig: 1073, 860
+  offset: 0, 0
+  index: -1
+
+free_enter5.png
+size: 1186,1079
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_hood_won_wolf
+  rotate: true
+  xy: 2, 2
+  size: 1075, 393
+  orig: 1075, 393
+  offset: 0, 0
+  index: -1
+bg_wolf_won_hood
+  rotate: true
+  xy: 397, 2
+  size: 1075, 393
+  orig: 1075, 393
+  offset: 0, 0
+  index: -1
+speedline_freeze
+  rotate: true
+  xy: 792, 62
+  size: 1015, 392
+  orig: 1015, 392
+  offset: 0, 0
+  index: -1

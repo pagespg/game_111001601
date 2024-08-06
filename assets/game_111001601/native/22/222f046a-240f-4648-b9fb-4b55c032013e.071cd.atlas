@@ -1,0 +1,251 @@
+
+bg_wolf_seek.png
+size: 1009,526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+langbizhi
+  rotate: true
+  xy: 650, 2
+  size: 90, 86
+  orig: 90, 86
+  offset: 0, 0
+  index: -1
+lange
+  rotate: false
+  xy: 160, 6
+  size: 167, 244
+  orig: 167, 244
+  offset: 0, 0
+  index: -1
+lange-bei
+  rotate: true
+  xy: 790, 323
+  size: 96, 160
+  orig: 96, 160
+  offset: 0, 0
+  index: -1
+langlian
+  rotate: true
+  xy: 141, 252
+  size: 272, 107
+  orig: 272, 107
+  offset: 0, 0
+  index: -1
+langmuzhi-zuo
+  rotate: true
+  xy: 952, 329
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+langsetou
+  rotate: false
+  xy: 932, 117
+  size: 63, 81
+  orig: 63, 81
+  offset: 0, 0
+  index: -1
+langshizhi-you
+  rotate: true
+  xy: 615, 264
+  size: 42, 69
+  orig: 42, 69
+  offset: 0, 0
+  index: -1
+langsouzhi-you
+  rotate: false
+  xy: 927, 29
+  size: 80, 86
+  orig: 80, 86
+  offset: 0, 0
+  index: -1
+langwen
+  rotate: false
+  xy: 790, 231
+  size: 145, 90
+  orig: 145, 90
+  offset: 0, 0
+  index: -1
+leishi-you
+  rotate: false
+  xy: 952, 282
+  size: 52, 45
+  orig: 52, 45
+  offset: 0, 0
+  index: -1
+leishi-zuo
+  rotate: true
+  xy: 650, 218
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+xiaobi-you
+  rotate: true
+  xy: 329, 14
+  size: 242, 172
+  orig: 242, 172
+  offset: 0, 0
+  index: -1
+xiaobi-youbei
+  rotate: false
+  xy: 2, 2
+  size: 156, 237
+  orig: 156, 237
+  offset: 0, 0
+  index: -1
+xiaobi-zuo1
+  rotate: false
+  xy: 2, 241
+  size: 137, 283
+  orig: 137, 283
+  offset: 0, 0
+  index: -1
+xiaobi-zuo2
+  rotate: true
+  xy: 503, 4
+  size: 258, 145
+  orig: 258, 145
+  offset: 0, 0
+  index: -1
+xiaoerduo-bei
+  rotate: false
+  xy: 937, 200
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+xiaoerduo-qian
+  rotate: false
+  xy: 686, 192
+  size: 98, 114
+  orig: 98, 114
+  offset: 0, 0
+  index: -1
+xiaohua-zuo
+  rotate: false
+  xy: 865, 13
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+xiaohuabian-you
+  rotate: false
+  xy: 779, 3
+  size: 84, 112
+  orig: 84, 112
+  offset: 0, 0
+  index: -1
+xiaohuabian-zuo
+  rotate: true
+  xy: 790, 421
+  size: 103, 165
+  orig: 103, 165
+  offset: 0, 0
+  index: -1
+xiaomaozi
+  rotate: true
+  xy: 250, 258
+  size: 266, 149
+  orig: 266, 149
+  offset: 0, 0
+  index: -1
+xiaoshenti
+  rotate: false
+  xy: 401, 264
+  size: 212, 260
+  orig: 212, 260
+  offset: 0, 0
+  index: -1
+xiaoshouzhang-zuo
+  rotate: false
+  xy: 615, 308
+  size: 173, 216
+  orig: 173, 216
+  offset: 0, 0
+  index: -1
+xiaoshouzi-zuo1
+  rotate: false
+  xy: 682, 105
+  size: 95, 85
+  orig: 95, 85
+  offset: 0, 0
+  index: -1
+xiaoshouzi-zuo2
+  rotate: true
+  xy: 779, 118
+  size: 37, 78
+  orig: 37, 78
+  offset: 0, 0
+  index: -1
+xiaoshouzi-zuo3
+  rotate: true
+  xy: 957, 462
+  size: 62, 49
+  orig: 62, 49
+  offset: 0, 0
+  index: -1
+xiaoyanguang
+  rotate: false
+  xy: 786, 157
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+yanjing-you
+  rotate: false
+  xy: 927, 6
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+yanjing-zuo
+  rotate: false
+  xy: 950, 8
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+yanjingpian-you
+  rotate: false
+  xy: 650, 186
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+yanjingpian-zuo
+  rotate: false
+  xy: 650, 94
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+yanjingxian-you
+  rotate: false
+  xy: 650, 154
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+yanjingxian-zuo
+  rotate: true
+  xy: 650, 123
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+yanpi-you
+  rotate: true
+  xy: 865, 75
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+yanpi-zuo
+  rotate: false
+  xy: 957, 412
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1

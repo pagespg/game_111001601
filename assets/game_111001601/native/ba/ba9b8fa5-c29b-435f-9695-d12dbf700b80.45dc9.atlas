@@ -1,0 +1,41 @@
+
+sudx.png
+size: 1291,434
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01/1
+  rotate: false
+  xy: 2, 218
+  size: 549, 214
+  orig: 549, 214
+  offset: 0, 0
+  index: -1
+01/2
+  rotate: false
+  xy: 2, 2
+  size: 549, 214
+  orig: 549, 214
+  offset: 0, 0
+  index: -1
+01/3
+  rotate: false
+  xy: 553, 218
+  size: 549, 214
+  orig: 549, 214
+  offset: 0, 0
+  index: -1
+01/4
+  rotate: false
+  xy: 553, 2
+  size: 549, 214
+  orig: 549, 214
+  offset: 0, 0
+  index: -1
+bai
+  rotate: false
+  xy: 1104, 218
+  size: 185, 214
+  orig: 185, 214
+  offset: 0, 0
+  index: -1
